@@ -38,5 +38,6 @@ displayobjects/arc.js
 displayobjects/ellipse.js
 displayobjects/polygon.js
 displayobjects/line.js
+displayobjects/beziercurve.js
 displayobjects/sprite.js
 -----
